@@ -1,5 +1,5 @@
-# reeve
-Shell script to install a [reeve Masternode](http://reevecoin.com/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
+# Reeve Masternode Script
+Shell script to install a [Reeve Masternode](http://reeve.cash/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
 
 ***
 ## Installation:
