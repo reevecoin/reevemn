@@ -9,7 +9,7 @@ COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/reevecoin/reeve/releases/download/v.1/reeve.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Reeve'
-COIN_PORT=5500
+COIN_PORT=5510
 RPC_PORT=5501
 
 NODEIP=$(curl -s4 icanhazip.com)
